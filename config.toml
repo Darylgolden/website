@@ -1,4 +1,4 @@
 baseURL = 'https://awesome-wing-1d9ba5.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'even'
+theme = 'paperback'
