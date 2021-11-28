@@ -7,3 +7,6 @@
 [submodule "themes/even"]
 	path = themes/even
 	url = https://github.com/olOwOlo/hugo-theme-even
+[submodule "themes/themes/KeepIt"]
+	path = themes/themes/KeepIt
+	url = https://github.com/Fastbyte01/KeepIt
