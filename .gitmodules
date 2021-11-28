@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/paperback"]
+	path = themes/paperback
+	url = https://github.com/dashdashzako/paperback.git
