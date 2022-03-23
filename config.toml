@@ -2,3 +2,7 @@ baseURL = 'https://darylgolden.me/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'beautifulhugo'
+
+[params]
+talkyardServerUrl = "https://site-1kuof02wia.talkyard.net"
+talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
